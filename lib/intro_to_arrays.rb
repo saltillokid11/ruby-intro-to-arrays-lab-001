@@ -12,3 +12,7 @@ end
 def first_element(arr)
   return arr.first
 end
+
+def third_element(arr)
+  return arr.third
+end
