@@ -14,5 +14,5 @@ def first_element(arr)
 end
 
 def third_element(arr)
-  return arr.index[3]
+  return arr.[2]
 end
