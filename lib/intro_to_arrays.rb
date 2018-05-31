@@ -18,5 +18,5 @@ def third_element(arr)
 end
 
 def last_element(arr)
-  return arr.[-1]
+  return arr[-1]
 end
